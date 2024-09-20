@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AntiguedadesApplication<antiguedades>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.backend.antiguedades.AntiguedadesApplication",
+            "projectName": "antiguedades",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
